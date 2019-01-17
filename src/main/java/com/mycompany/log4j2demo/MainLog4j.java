@@ -13,6 +13,7 @@ public class MainLog4j{
     public static void main(String[] args){
         System.out.println("\n Hello World!!! \n");
         
+        System.out.println("Some chenges to commit...");
         logger.trace("This is trsce message");
         logger.info("This is information message");
         logger.error("This is error message");
