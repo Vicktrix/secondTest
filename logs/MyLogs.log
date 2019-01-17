@@ -1,0 +1,15 @@
+[TRACE] 2019-01-16 19:40:48.064 [main] MainLog4j - This is trsce message
+[INFO ] 2019-01-16 19:40:48.064 [main] MainLog4j - This is information message
+[ERROR] 2019-01-16 19:40:48.064 [main] MainLog4j - This is error message
+[FATAL] 2019-01-16 19:40:48.064 [main] MainLog4j - This is fatal message
+[WARN ] 2019-01-16 19:40:48.064 [main] MainLog4j - This is warn message
+[TRACE] 2019-01-16 19:41:13.575 [main] MainLog4j - This is trsce message
+[INFO ] 2019-01-16 19:41:13.575 [main] MainLog4j - This is information message
+[ERROR] 2019-01-16 19:41:13.575 [main] MainLog4j - This is error message
+[FATAL] 2019-01-16 19:41:13.575 [main] MainLog4j - This is fatal message
+[WARN ] 2019-01-16 19:41:13.575 [main] MainLog4j - This is warn message
+[TRACE] 2019-01-17 13:56:22.304 [main] MainLog4j - This is trsce message
+[INFO ] 2019-01-17 13:56:22.304 [main] MainLog4j - This is information message
+[ERROR] 2019-01-17 13:56:22.304 [main] MainLog4j - This is error message
+[FATAL] 2019-01-17 13:56:22.304 [main] MainLog4j - This is fatal message
+[WARN ] 2019-01-17 13:56:22.304 [main] MainLog4j - This is warn message
